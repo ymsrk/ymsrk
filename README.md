@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ymsrk/posts.svg)](http://qiita.com/ymsrk)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ymsrk/contributions.svg)](http://qiita.com/ymsrk)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/ymsrk/followers.svg)](http://qiita.com/ymsrk)
+
 <!--
 **ymsrk/ymsrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

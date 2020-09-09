@@ -1,4 +1,4 @@
-### I`m a developer who  👋
+### I`m a developer who office idom.inc 👋
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/grrrr/posts.svg)](http://qiita.com/grrrr)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/grrrr/contributions.svg)](http://qiita.com/grrrr)

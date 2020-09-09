@@ -1,8 +1,32 @@
-### Hi there 👋
+### I`m a developer who  👋
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/grrrr/posts.svg)](http://qiita.com/grrrr)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/grrrr/contributions.svg)](http://qiita.com/grrrr)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/grrrr/followers.svg)](http://qiita.com/grrrr)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymsrk&theme=tokyonight&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ymsrk&show_icons=true&theme=tokyonight)
+
+
+## 🔨 skill
+Ruby / Rails / JavaScript / HTML / CSS / aws
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
+## 🙅‍♂️ old skill
+
+Java / C# / C
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
 
 <!--
 **ymsrk/ymsrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
